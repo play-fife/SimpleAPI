@@ -1,4 +1,4 @@
-=== Simple REST API
+Simple REST API
 
 
 To build the application:
