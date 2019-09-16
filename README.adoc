@@ -1,7 +1,5 @@
-= Moneytransfer
+=== Simple REST API
 
-
-== Building
 
 To build the application:
 ```
@@ -13,7 +11,6 @@ To run the application:
 gradlew run
 ```
 
-== Help
 
 
 
