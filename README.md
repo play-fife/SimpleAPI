@@ -8,7 +8,7 @@ gradle build
 
 To run the application:
 ```
-gradlew run
+gradle run
 ```
 
 
